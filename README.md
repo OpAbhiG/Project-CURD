@@ -62,5 +62,3 @@ CRUD Operations on Customer List:
 Enter your choice: 2
 Customer List:
 Customer [customerId=101, name=John Doe, billAmount=100.5]
-
-...
